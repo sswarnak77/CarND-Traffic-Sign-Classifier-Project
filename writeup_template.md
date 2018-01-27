@@ -169,6 +169,19 @@ For the third image ...
 | 0.1                   | No vehicles               |
 | 0.05                  | Speed limit (120km/h)     |  
 
+For the fourth image ... 
+
+| Probability           |     Prediction                    | 
+|:---------------------:|:---------------------------------------------:| 
+| 1.0                   |  Speed limit (30km/h)                     | 
+
+For the fifth image ... 
+
+| Probability           |     Prediction                    | 
+|:---------------------:|:---------------------------------------------:| 
+| 1.0                   | Priority road                     | 
+
+
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
 #### 1. Discuss the visual output of your trained network's feature maps. What characteristics did the neural network use to make classifications?
